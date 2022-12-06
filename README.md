@@ -1,5 +1,6 @@
 # Real-Estate-Market-Forecast
-Projekt uczenia maszynowego do predykcji cen nieruchomości. Wyniki zostały przedstawione w interaktywnej aplikacji dostępnej pod adresem
+Projekt uczenia maszynowego do predykcji cen nieruchomości. 
+Rezultaty zostały przedstawione w interaktywnej aplikacji dostępnej pod adresem
 
 ## Table of Contents
 *
