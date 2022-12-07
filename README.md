@@ -3,7 +3,11 @@ Projekt uczenia maszynowego do predykcji cen nieruchomości.
 Rezultaty zostały przedstawione w interaktywnej aplikacji dostępnej pod adresem
 
 ## Table of Contents
-*
+* [General Information](#general-information)
+* [Technologies Used](#technologies-used)
+* [App Pages](#app-pages)
+* [Setup](#setup)
+* [Acknowledgements](#Acknowledgements)
 
 ## General Information
 
@@ -44,3 +48,5 @@ Wyniki przedstawiono w interaktywnej aplikacji napisanej przy użyciuframeworka 
 ## Setup
 
 ## Acknowledgements
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+https://dalex.drwhy.ai
