@@ -40,6 +40,8 @@ Wyniki przedstawiono w interaktywnej aplikacji napisanej przy użyciu frameworka
 
 * IDE Pycharm
 
+* Hosting - Google Cloud Run
+
 ## App Pages
 * Streszczenie 
 * Zmienna objaśniana
