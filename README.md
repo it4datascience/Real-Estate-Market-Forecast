@@ -50,6 +50,9 @@ Wyniki przedstawiono w interaktywnej aplikacji napisanej przy użyciu frameworka
 
 ## Acknowledgements
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
 https://dalex.drwhy.ai
+
 https://xgboost.readthedocs.io/en/stable/
+
 https://dash.plotly.com
