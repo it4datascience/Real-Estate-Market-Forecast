@@ -24,10 +24,11 @@ Przedstawione zostało kompleksowe rozwiązanie od przygotowania danych poprzez 
 * aproksymacja modelem zastępczym,
 * wartości Shapley’a,
 * zależności typu Break-Down, skumulowanych profili lokalnych.
-Wyniki przedstawiono w interaktywnej aplikacji napisanej przy użyciuframeworka Dash.
+
+Wyniki przedstawiono w interaktywnej aplikacji napisanej przy użyciu frameworka Dash.
 
 ## Technologies Used
-* Python 3
+* Python 3.10.2
 
 * Dash
 
@@ -50,3 +51,5 @@ Wyniki przedstawiono w interaktywnej aplikacji napisanej przy użyciuframeworka 
 ## Acknowledgements
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 https://dalex.drwhy.ai
+https://xgboost.readthedocs.io/en/stable/
+https://dash.plotly.com
