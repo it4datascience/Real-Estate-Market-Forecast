@@ -44,9 +44,31 @@ Wyniki przedstawiono w interaktywnej aplikacji napisanej przy użyciu frameworka
 
 ## App Pages
 * Streszczenie 
+[streszczenie.pdf](https://github.com/it4datascience/Real-Estate-Market-Forecast/files/10329583/streszczenie.pdf)
+* Zbiór danych
+
+
+https://user-images.githubusercontent.com/101253790/210186631-a9bf35b1-a267-4538-8501-1096ec079c7c.mov
+
+
 * Zmienna objaśniana
+
+https://user-images.githubusercontent.com/101253790/210186622-47dc7345-7c2e-4872-a638-7b7d88c2c2a1.mov
+
+
+
 * Modele ML
+
+
+https://user-images.githubusercontent.com/101253790/210186633-95ae222b-9bd4-49b0-93f2-464ab847dc24.mov
+
+
 * Predykcja
+
+
+https://user-images.githubusercontent.com/101253790/210186635-c84f64dc-bec3-4d8d-8e36-9b22ef92fad1.mov
+
+
 
 ## Setup
 
