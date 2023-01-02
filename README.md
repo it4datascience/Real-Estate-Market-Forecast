@@ -33,6 +33,8 @@ Wyniki przedstawiono w interaktywnej aplikacji napisanej przy użyciu frameworka
 
 * Dash
 
+* Docker
+
 * Css
 
 * Pakiety: Dalex, sklearn, plotly, pytest
@@ -42,6 +44,8 @@ Wyniki przedstawiono w interaktywnej aplikacji napisanej przy użyciu frameworka
 * IDE Pycharm
 
 * Hosting - Google Cloud Run
+
+* Gunicorn
 
 ## App Pages
 * Streszczenie 
@@ -66,6 +70,8 @@ Wyniki przedstawiono w interaktywnej aplikacji napisanej przy użyciu frameworka
 ![predykcja](https://user-images.githubusercontent.com/101253790/210268678-49447a2a-8dd6-4663-8a8f-a791054a1dc9.gif)
 
 ## Setup
+
+pip install -r requirements.txt
 
 ## Acknowledgements
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
