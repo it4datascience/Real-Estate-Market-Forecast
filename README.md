@@ -1,7 +1,7 @@
 # Real-Estate-Market-Forecast
 Projekt uczenia maszynowego do predykcji cen nieruchomości. 
 
-Rezultaty zostały przedstawione w interaktywnej aplikacji dostępnej pod adresem https://console.cloud.google.com/run/detail/me-west1/house-prices-forecast/metrics?project=dashh-aepp
+Rezultaty zostały przedstawione w interaktywnej aplikacji dostępnej pod adresem https://house-prices-forecast-eosstbkhha-zf.a.run.app
 
 ## Table of Contents
 * [General Information](#general-information)
