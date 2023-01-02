@@ -53,8 +53,7 @@ https://user-images.githubusercontent.com/101253790/210186631-a9bf35b1-a267-4538
 
 * Zmienna objaśniana
 
-![zmienna objasniana](https://user-images.githubusercontent.com/101253790/210267934-4ac88872-45fd-405a-b4de-7d4577ceaac7.gif)
-
+![zmienna_objasniana](https://user-images.githubusercontent.com/101253790/210268244-b51366e1-a8ef-45b0-b884-be14214dc979.gif)
 
 
 https://user-images.githubusercontent.com/101253790/210186622-47dc7345-7c2e-4872-a638-7b7d88c2c2a1.mov
