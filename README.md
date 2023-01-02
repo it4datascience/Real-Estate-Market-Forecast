@@ -44,34 +44,25 @@ Wyniki przedstawiono w interaktywnej aplikacji napisanej przy użyciu frameworka
 
 ## App Pages
 * Streszczenie 
-[streszczenie.pdf](https://github.com/it4datascience/Real-Estate-Market-Forecast/files/10329583/streszczenie.pdf)
+* 
+![streszczenie](https://user-images.githubusercontent.com/101253790/210268782-892e80c3-5e22-4547-9afa-17a3551f2b90.jpg)
+
 * Zbiór danych
 
-
-https://user-images.githubusercontent.com/101253790/210186631-a9bf35b1-a267-4538-8501-1096ec079c7c.mov
+![zbior_danych](https://user-images.githubusercontent.com/101253790/210268642-cb354ba2-15ef-40d5-bc7a-e81e508eba17.gif)
 
 
 * Zmienna objaśniana
 
 ![zmienna_objasniana](https://user-images.githubusercontent.com/101253790/210268244-b51366e1-a8ef-45b0-b884-be14214dc979.gif)
 
-
-https://user-images.githubusercontent.com/101253790/210186622-47dc7345-7c2e-4872-a638-7b7d88c2c2a1.mov
-
-
-
 * Modele ML
 
-
-https://user-images.githubusercontent.com/101253790/210186633-95ae222b-9bd4-49b0-93f2-464ab847dc24.mov
-
+![modele_ml](https://user-images.githubusercontent.com/101253790/210268667-df04a2d1-b9a0-498e-a567-eeff73975389.gif)
 
 * Predykcja
 
-
-https://user-images.githubusercontent.com/101253790/210186635-c84f64dc-bec3-4d8d-8e36-9b22ef92fad1.mov
-
-
+![predykcja](https://user-images.githubusercontent.com/101253790/210268678-49447a2a-8dd6-4663-8a8f-a791054a1dc9.gif)
 
 ## Setup
 
