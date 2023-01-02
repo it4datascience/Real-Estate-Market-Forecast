@@ -53,6 +53,9 @@ https://user-images.githubusercontent.com/101253790/210186631-a9bf35b1-a267-4538
 
 * Zmienna objaśniana
 
+![zmienna_objasniana_AdobeExpress](https://user-images.githubusercontent.com/101253790/210267566-503eb7f7-1a79-4ded-9eee-2dfc8db43a45.gif)
+
+
 https://user-images.githubusercontent.com/101253790/210186622-47dc7345-7c2e-4872-a638-7b7d88c2c2a1.mov
 
 
