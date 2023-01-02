@@ -44,7 +44,7 @@ Wyniki przedstawiono w interaktywnej aplikacji napisanej przy użyciu frameworka
 
 ## App Pages
 * Streszczenie 
-* 
+
 ![streszczenie](https://user-images.githubusercontent.com/101253790/210268782-892e80c3-5e22-4547-9afa-17a3551f2b90.jpg)
 
 * Zbiór danych
