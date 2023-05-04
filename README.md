@@ -1,7 +1,7 @@
 # Real-Estate-Market-Forecast
 Projekt uczenia maszynowego do predykcji cen nieruchomości. 
 
-Rezultaty zostały przedstawione w interaktywnej aplikacji dostępnej pod adresem https://house-prices-forecast-eosstbkhha-zf.a.run.app
+Rezultaty zostały przedstawione w interaktywnej aplikacji dostępnej pod adresem https://remf.onrender.com/
 
 ## Table of Contents
 * [General Information](#general-information)
@@ -43,7 +43,7 @@ Wyniki przedstawiono w interaktywnej aplikacji napisanej przy użyciu frameworka
 
 * IDE Pycharm
 
-* Hosting - Google Cloud Run
+* Hosting - Google Cloud Run (edit 04.05.23: hosting zmieniony na render.com)
 
 * Gunicorn
 
